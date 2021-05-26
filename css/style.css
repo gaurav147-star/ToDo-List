@@ -1,0 +1,12 @@
+.all {
+  border: 20px solid rgba(0, 0, 0, 0.74);
+}
+.container {
+  border: 20px solid rgba(0, 0, 0, 0.74);
+  border-radius: 4px;
+}
+.table {
+  border-collapse: collapse;
+  border: 2px solid black;
+  border-radius: 4px;
+}
